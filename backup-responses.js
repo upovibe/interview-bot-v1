@@ -63,8 +63,7 @@ const backupResponses = [
             <p>Be selective about what you follow and join. Follow accounts that actually add value to your studies, not just entertainment. Set boundaries for your usage time, and always fact-check important information. Use it as a supplement to your formal education, not a replacement.</p>`,
         timestamp: new Date().toISOString(),
         rawResponse: 'Realistic psychology student response'
-    },
-    
+    },    
     {
         profile: {
             age: '21',
@@ -127,7 +126,6 @@ const backupResponses = [
         timestamp: new Date().toISOString(),
         rawResponse: 'Backup response 2'
     },
-
     {
         profile: {
             age: '22',
@@ -189,7 +187,336 @@ const backupResponses = [
             <p>Join relevant groups early, but curate your feeds carefully. Follow academic accounts and join course-specific channels, but don't let it replace real studying. Set time boundaries and use app timers if you need to. And always verify important information through official channels.</p>`,
         timestamp: new Date().toISOString(),
         rawResponse: 'Realistic computer science student response'
-    }
+    },
+    {
+        profile: {
+            name: 'Ama Serwaa',
+            age: '21',
+            gender: 'Female',
+            university: 'University of Ghana (Legon)',
+            year: 'Third year',
+            field: 'Psychology'
+        },
+        content: `<h1>University Student Interview Response</h1>
+            <div class="student-profile">
+                <h2>Student Profile</h2>
+                <div class="profile-item"><span class="profile-label">Name:</span> <span class="profile-value">Ama Serwaa</span></div>
+                <div class="profile-item"><span class="profile-label">Age:</span> <span class="profile-value">21</span></div>
+                <div class="profile-item"><span class="profile-label">Gender:</span> <span class="profile-value">Female</span></div>
+                <div class="profile-item"><span class="profile-label">University:</span> <span class="profile-value">University of Ghana (Legon)</span></div>
+                <div class="profile-item"><span class="profile-label">Academic Year:</span> <span class="profile-value">Third year</span></div>
+                <div class="profile-item"><span class="profile-label">Field of Study:</span> <span class="profile-value">Psychology</span></div>
+            </div>
+
+            <h2>Section 1: Demographic Information</h2>
+            <p><span class="question-number">1.</span> <strong>Age:</strong> I'm 21 years old, in my third year at UG.</p>
+            <p><span class="question-number">2.</span> <strong>Gender:</strong> Female</p>
+            <p><span class="question-number">3.</span> <strong>Academic year:</strong> Level 300 Psychology student</p>
+            <p><span class="question-number">4.</span> <strong>Field of study:</strong> Psychology with interest in mental health awareness in Ghana</p>
+
+            <h2>Section 2: Use of Social Media</h2>
+            <p><span class="question-number">5.</span> <strong>Which social media platform do you normally use for academic purposes?</strong></p>
+            <p>WhatsApp and Facebook mostly. We have class groups on WhatsApp where we share notes and discuss assignments. Facebook has good Ghanaian psychology pages like "Mind Matters GH" that share local case studies.</p>
+            
+            <p><span class="question-number">6.</span> <strong>How often do you use these platforms to communicate with your colleagues?</strong></p>
+            <p>Daily! Our class WhatsApp group is always active, especially around exam time. Even during vacations, we share internship opportunities and psychology articles.</p>
+
+            <h2>Section 3: Peer Support</h2>
+            <p><span class="question-number">7.</span> <strong>In what ways do you use social media to communicate with your peers for academic support?</strong></p>
+            <p>We share PDFs of textbooks that are expensive to buy, discuss lecture topics we didn't understand, and organize group study sessions. During the recent strikes, social media was our only way to stay updated.</p>
+            
+            <p><span class="question-number">8.</span> <strong>Can you describe a specific situation where social media helped you on an assignment?</strong></p>
+            <p>For my cross-cultural psychology assignment, I connected with a psychology student at UCC through a Facebook group. She shared her research on Ga family structures which became a key part of my paper.</p>
+            
+            <p><span class="question-number">9.</span> <strong>How do you think social media has changed your interactions with colleagues compared to traditional methods?</strong></p>
+            <p>It's made collaboration much easier despite our busy schedules. We can discuss projects late at night after trotro rides home. But sometimes important messages get lost in all the forwarded jokes and church program announcements.</p>
+
+            <h2>Section 4: Academic Skills Development</h2>
+            <p><span class="question-number">10.</span> <strong>How has social media improved your problem-solving skills in academia?</strong></p>
+            <p>Seeing how my peers approach assignments has broadened my thinking. The Ghana Psychology Students Network on Facebook exposes me to different perspectives from all over the country.</p>
+            
+            <p><span class="question-number">11.</span> <strong>Can you give an example where social media has helped you tackle a specific academic challenge?</strong></p>
+            <p>When I was struggling with statistics, a senior shared YouTube tutorials by a Ghanaian lecturer on our WhatsApp group. The local examples made it much clearer than our imported textbooks.</p>
+
+            <h2>Section 5: Challenges and Limitations</h2>
+            <p><span class="question-number">12.</span> <strong>What challenges have you faced using social media for academic purposes?</strong></p>
+            <p>Data costs are a big issue - downloading all the shared materials consumes bundles. Also, not everyone has smartphones, so some classmates miss important updates.</p>
+            
+            <p><span class="question-number">13.</span> <strong>Do you think there are more negative effects of social media in an academic context?</strong></p>
+            <p>The distractions are real - one minute you're discussing Freud, next you're watching Kumawood memes. But the benefits outweigh this if you're disciplined.</p>
+
+            <h2>Section 6: Final Thoughts</h2>
+            <p><span class="question-number">14.</span> <strong>Overall, how would you describe your experiences using social media for academic purposes?</strong></p>
+            <p>Extremely valuable. In Ghana where library resources are limited, social media creates access to knowledge we wouldn't otherwise have. It's also helped build a strong psychology student community across universities.</p>
+            
+            <p><span class="question-number">15.</span> <strong>What recommendation would you give to other students regarding the use of social media for academic support?</strong></p>
+            <p>Join subject-specific Ghanaian groups, but mute notifications during study time. Save important materials offline to manage data costs. And verify any academic information with lecturers before using it.</p>`,
+        timestamp: new Date().toISOString(),
+        rawResponse: 'UG Psychology student response'
+    },
+    {
+        profile: {
+            name: 'Kwabena Osei',
+            age: '22',
+            gender: 'Male',
+            university: 'UPSA',
+            year: 'Final year',
+            field: 'Accounting'
+        },
+        content: `<h1>University Student Interview Response</h1>
+            <div class="student-profile">
+                <h2>Student Profile</h2>
+                <div class="profile-item"><span class="profile-label">Name:</span> <span class="profile-value">Kwabena Osei</span></div>
+                <div class="profile-item"><span class="profile-label">Age:</span> <span class="profile-value">22</span></div>
+                <div class="profile-item"><span class="profile-label">Gender:</span> <span class="profile-value">Male</span></div>
+                <div class="profile-item"><span class="profile-label">University:</span> <span class="profile-value">UPSA</span></div>
+                <div class="profile-item"><span class="profile-label">Academic Year:</span> <span class="profile-value">Final year</span></div>
+                <div class="profile-item"><span class="profile-label">Field of Study:</span> <span class="profile-value">Accounting</span></div>
+            </div>
+
+            <h2>Section 1: Demographic Information</h2>
+            <p><span class="question-number">1.</span> <strong>Age:</strong> 22 years old</p>
+            <p><span class="question-number">2.</span> <strong>Gender:</strong> Male</p>
+            <p><span class="question-number">3.</span> <strong>Academic year:</strong> Final year Accounting student at UPSA</p>
+            <p><span class="question-number">4.</span> <strong>Field of study:</strong> Accounting with ICAG certification track</p>
+
+            <h2>Section 2: Use of Social Media</h2>
+            <p><span class="question-number">5.</span> <strong>Which social media platform do you normally use for academic purposes?</strong></p>
+            <p>LinkedIn and Telegram. I follow ICAG updates on LinkedIn and join Telegram groups where seniors share past exam questions and study tips.</p>
+            
+            <p><span class="question-number">6.</span> <strong>How often do you use these platforms to communicate with your colleagues?</strong></p>
+            <p>Daily during exam periods. Our "UPSA Accounting Warriors" Telegram group becomes very active when ICAG exams are approaching.</p>
+
+            <h2>Section 3: Peer Support</h2>
+            <p><span class="question-number">7.</span> <strong>In what ways do you use social media to communicate with your peers for academic support?</strong></p>
+            <p>We share scanned copies of rare accounting textbooks, discuss complex standards like IFRS, and organize weekend study groups at places like the UPSA library or nearby cafes.</p>
+            
+            <p><span class="question-number">8.</span> <strong>Can you describe a specific situation where social media helped you on an assignment?</strong></p>
+            <p>For my advanced taxation course, I was confused about Ghana's VAT amendments. A LinkedIn connection at GRA shared the latest tax circulars which helped me score 92% on my assignment.</p>
+            
+            <p><span class="question-number">9.</span> <strong>How do you think social media has changed your interactions with colleagues compared to traditional methods?</strong></p>
+            <p>It's made networking with professionals easier. I can directly message accountants in big firms like PwC Ghana for career advice. However, some students now rely too much on shared materials instead of reading full textbooks.</p>
+
+            <h2>Section 4: Academic Skills Development</h2>
+            <p><span class="question-number">10.</span> <strong>How has social media improved your problem-solving skills in academia?</strong></p>
+            <p>Seeing how professionals apply accounting principles in real Ghanaian businesses (like MTN or Fan Milk) has helped me understand beyond textbook theories.</p>
+            
+            <p><span class="question-number">11.</span> <strong>Can you give an example where social media has helped you tackle a specific academic challenge?</strong></p>
+            <p>When preparing for my auditing exam, a Telegram group member shared mnemonics for remembering ISA standards that our lecturer hadn't taught. This helped our whole class perform better.</p>
+
+            <h2>Section 5: Challenges and Limitations</h2>
+            <p><span class="question-number">12.</span> <strong>What challenges have you faced using social media for academic purposes?</strong></p>
+            <p>Some shared materials contain errors that spread quickly. Also, the pressure to always be available for group discussions can be draining during busy periods.</p>
+            
+            <p><span class="question-number">13.</span> <strong>Do you think there are more negative effects of social media in an academic context?</strong></p>
+            <p>Yes, especially with exam malpractice. Some students create secret groups to share answers during online tests, which devalues our qualifications.</p>
+
+            <h2>Section 6: Final Thoughts</h2>
+            <p><span class="question-number">14.</span> <strong>Overall, how would you describe your experiences using social media for academic purposes?</strong></p>
+            <p>Mostly positive when used ethically. It's helped me build a professional network and access resources that aren't available in our library.</p>
+            
+            <p><span class="question-number">15.</span> <strong>What recommendation would you give to other students regarding the use of social media for academic support?</strong></p>
+            <p>Follow verified professional accounts, not just student groups. Always cross-check shared materials with official sources. And never participate in exam malpractice groups.</p>`,
+        timestamp: new Date().toISOString(),
+        rawResponse: 'UPSA Accounting student response'
+    },
+    {
+        profile: {
+            name: 'Esi Mensah',
+            age: '20',
+            gender: 'Female',
+            university: 'University of Cape Coast',
+            year: 'Second year',
+            field: 'Education'
+        },
+        content: `<h1>University Student Interview Response</h1>
+            <div class="student-profile">
+                <h2>Student Profile</h2>
+                <div class="profile-item"><span class="profile-label">Name:</span> <span class="profile-value">Esi Mensah</span></div>
+                <div class="profile-item"><span class="profile-label">Age:</span> <span class="profile-value">20</span></div>
+                <div class="profile-item"><span class="profile-label">Gender:</span> <span class="profile-value">Female</span></div>
+                <div class="profile-item"><span class="profile-label">University:</span> <span class="profile-value">University of Cape Coast</span></div>
+                <div class="profile-item"><span class="profile-label">Academic Year:</span> <span class="profile-value">Second year</span></div>
+                <div class="profile-item"><span class="profile-label">Field of Study:</span> <span class="profile-value">Education</span></div>
+            </div>
+
+            <h2>Section 1: Demographic Information</h2>
+            <p><span class="question-number">1.</span> <strong>Age:</strong> 20 years old</p>
+            <p><span class="question-number">2.</span> <strong>Gender:</strong> Female</p>
+            <p><span class="question-number">3.</span> <strong>Academic year:</strong> Second year Education student at UCC</p>
+            <p><span class="question-number">4.</span> <strong>Field of study:</strong> Education with specialization in Early Childhood Development</p>
+
+            <h2>Section 2: Use of Social Media</h2>
+            <p><span class="question-number">5.</span> <strong>Which social media platform do you normally use for academic purposes?</strong></p>
+            <p>Facebook and WhatsApp. The "Ghana Teachers Network" Facebook group is very active, and we have class WhatsApp groups where we share lesson plan ideas.</p>
+            
+            <p><span class="question-number">6.</span> <strong>How often do you use these platforms to communicate with your colleagues?</strong></p>
+            <p>Almost daily. We're always sharing teaching resources or discussing practicum experiences at different Ghanaian basic schools.</p>
+
+            <h2>Section 3: Peer Support</h2>
+            <p><span class="question-number">7.</span> <strong>In what ways do you use social media to communicate with your peers for academic support?</strong></p>
+            <p>We exchange teaching aids like flashcards and charts, discuss Ghana Education Service policies, and share opportunities for teaching practice schools.</p>
+            
+            <p><span class="question-number">8.</span> <strong>Can you describe a specific situation where social media helped you on an assignment?</strong></p>
+            <p>For my literacy development course, a Facebook group member shared Twi phonics resources that helped me create culturally relevant materials for my practicum at a rural school in Central Region.</p>
+            
+            <p><span class="question-number">9.</span> <strong>How do you think social media has changed your interactions with colleagues compared to traditional methods?</strong></p>
+            <p>It's allowed us to learn from teachers across Ghana, not just our classmates. However, nothing replaces the hands-on teaching demonstrations we do in person.</p>
+
+            <h2>Section 4: Academic Skills Development</h2>
+            <p><span class="question-number">10.</span> <strong>How has social media improved your problem-solving skills in academia?</strong></p>
+            <p>Seeing how experienced teachers handle classroom challenges in real Ghanaian schools (large class sizes, limited resources) has been more valuable than theoretical pedagogy.</p>
+            
+            <p><span class="question-number">11.</span> <strong>Can you give an example where social media has helped you tackle a specific academic challenge?</strong></p>
+            <p>When I struggled with managing a hyperactive class during practicum, a teacher in Tamale shared her "calm corner" technique via WhatsApp that worked perfectly with my KG pupils.</p>
+
+            <h2>Section 5: Challenges and Limitations</h2>
+            <p><span class="question-number">12.</span> <strong>What challenges have you faced using social media for academic purposes?</strong></p>
+            <p>Many good resources require printing, which is expensive. Also, some shared lesson plans don't align with Ghana's new curriculum standards.</p>
+            
+            <p><span class="question-number">13.</span> <strong>Do you think there are more negative effects of social media in an academic context?</strong></p>
+            <p>Yes, some student teachers copy entire lesson plans from social media without adapting them to their pupils' needs, which defeats the purpose of creative teaching.</p>
+
+            <h2>Section 6: Final Thoughts</h2>
+            <p><span class="question-number">14.</span> <strong>Overall, how would you describe your experiences using social media for academic purposes?</strong></p>
+            <p>Invaluable for practical teaching strategies, but should complement (not replace) hands-on classroom experience and official curriculum materials.</p>
+            
+            <p><span class="question-number">15.</span> <strong>What recommendation would you give to other students regarding the use of social media for academic support?</strong></p>
+            <p>Join groups with verified teachers, focus on Ghana-specific resources, and always adapt materials to your specific classroom context rather than copying directly.</p>`,
+        timestamp: new Date().toISOString(),
+        rawResponse: 'UCC Education student response'
+    },{
+        profile: {
+            name: 'Yaw Boateng',
+            age: '23',
+            gender: 'Male',
+            university: 'Ghana Institute of Journalism',
+            year: 'Third year',
+            field: 'Journalism'
+        },
+        content: `<h1>University Student Interview Response</h1>
+            <div class="student-profile">
+                <h2>Student Profile</h2>
+                <div class="profile-item"><span class="profile-label">Name:</span> <span class="profile-value">Yaw Boateng</span></div>
+                <div class="profile-item"><span class="profile-label">Age:</span> <span class="profile-value">23</span></div>
+                <div class="profile-item"><span class="profile-label">Gender:</span> <span class="profile-value">Male</span></div>
+                <div class="profile-item"><span class="profile-label">University:</span> <span class="profile-value">Ghana Institute of Journalism</span></div>
+                <div class="profile-item"><span class="profile-label">Academic Year:</span> <span class="profile-value">Third year</span></div>
+                <div class="profile-item"><span class="profile-label">Field of Study:</span> <span class="profile-value">Journalism</span></div>
+            </div>
+    
+            <h2>Section 1: Demographic Information</h2>
+            <p><span class="question-number">1.</span> <strong>Age:</strong> 23 years old</p>
+            <p><span class="question-number">2.</span> <strong>Gender:</strong> Male</p>
+            <p><span class="question-number">3.</span> <strong>Academic year:</strong> Third year Journalism student at GIJ</p>
+            <p><span class="question-number">4.</span> <strong>Field of study:</strong> Journalism with focus on investigative reporting</p>
+    
+            <h2>Section 2: Use of Social Media</h2>
+            <p><span class="question-number">5.</span> <strong>Which social media platform do you normally use for academic purposes?</strong></p>
+            <p>Twitter (X) and WhatsApp. I follow Ghanaian journalists like Manasseh Azure and media houses like JoyNews for real-time reporting techniques. Our class WhatsApp group shares press conference alerts.</p>
+            
+            <p><span class="question-number">6.</span> <strong>How often do you use these platforms to communicate with your colleagues?</strong></p>
+            <p>Multiple times daily. Breaking news never sleeps! We often crowdsource information for assignments via WhatsApp.</p>
+    
+            <h2>Section 3: Peer Support</h2>
+            <p><span class="question-number">7.</span> <strong>In what ways do you use social media to communicate with your peers for academic support?</strong></p>
+            <p>We share contacts of interview sources, critique each other's news writing styles, and organize group coverage of events like parliamentary proceedings.</p>
+            
+            <p><span class="question-number">8.</span> <strong>Can you describe a specific situation where social media helped you on an assignment?</strong></p>
+            <p>For my investigative journalism course, a Twitter thread by a GIJ alumnus exposed corruption at a local assembly. I used it as a case study and even got to interview the journalist via WhatsApp call.</p>
+            
+            <p><span class="question-number">9.</span> <strong>How do you think social media has changed your interactions with colleagues compared to traditional methods?</strong></p>
+            <p>It's accelerated news gathering but also increased pressure to be first with stories. Sometimes the rush leads to less verification - we have to remember GIJ's ethics training.</p>
+    
+            <h2>Section 4: Academic Skills Development</h2>
+            <p><span class="question-number">10.</span> <strong>How has social media improved your problem-solving skills in academia?</strong></p>
+            <p>Learning to distill complex issues into 280-character tweets has honed my concise writing. WhatsApp voice notes from professionals have also taught me interview techniques.</p>
+            
+            <p><span class="question-number">11.</span> <strong>Can you give an example where social media has helped you tackle a specific academic challenge?</strong></p>
+            <p>When my recorder failed during an interview, a classmate suggested using WhatsApp voice recording as backup. Now it's our standard practice!</p>
+    
+            <h2>Section 5: Challenges and Limitations</h2>
+            <p><span class="question-number">12.</span> <strong>What challenges have you faced using social media for academic purposes?</strong></p>
+            <p>Fake news spreads faster than corrections. Also, some officials now give vague answers knowing their WhatsApp messages might get screenshotted.</p>
+            
+            <p><span class="question-number">13.</span> <strong>Do you think there are more negative effects of social media in an academic context?</strong></p>
+            <p>Yes - plagiarism is rampant. Some students copy entire articles from blogs instead of original reporting. The "copy-paste" culture is worrying.</p>
+    
+            <h2>Section 6: Final Thoughts</h2>
+            <p><span class="question-number">14.</span> <strong>Overall, how would you describe your experiences using social media for academic purposes?</strong></p>
+            <p>Essential but dangerous. It's the modern journalist's toolkit, but requires strict ethical boundaries to avoid misinformation.</p>
+            
+            <p><span class="question-number">15.</span> <strong>What recommendation would you give to other students regarding the use of social media for academic support?</strong></p>
+            <p>Follow verified professionals, triple-check facts before sharing, and never compromise source confidentiality - even in private groups.</p>`,
+        timestamp: new Date().toISOString(),
+        rawResponse: 'GIJ Journalism student response'
+    },{
+        profile: {
+            name: 'Akosua Adjei',
+            age: '24',
+            gender: 'Female',
+            university: 'University of Ghana Medical School',
+            year: 'Clinical year',
+            field: 'Medicine'
+        },
+        content: `<h1>University Student Interview Response</h1>
+            <div class="student-profile">
+                <h2>Student Profile</h2>
+                <div class="profile-item"><span class="profile-label">Name:</span> <span class="profile-value">Akosua Adjei</span></div>
+                <div class="profile-item"><span class="profile-label">Age:</span> <span class="profile-value">24</span></div>
+                <div class="profile-item"><span class="profile-label">Gender:</span> <span class="profile-value">Female</span></div>
+                <div class="profile-item"><span class="profile-label">University:</span> <span class="profile-value">University of Ghana Medical School</span></div>
+                <div class="profile-item"><span class="profile-label">Academic Year:</span> <span class="profile-value">Clinical year</span></div>
+                <div class="profile-item"><span class="profile-label">Field of Study:</span> <span class="profile-value">Medicine</span></div>
+            </div>
+    
+            <h2>Section 1: Demographic Information</h2>
+            <p><span class="question-number">1.</span> <strong>Age:</strong> 24 years old</p>
+            <p><span class="question-number">2.</span> <strong>Gender:</strong> Female</p>
+            <p><span class="question-number">3.</span> <strong>Academic year:</strong> Clinical year medical student at Korle Bu</p>
+            <p><span class="question-number">4.</span> <strong>Field of study:</strong> Medicine with interest in public health</p>
+    
+            <h2>Section 2: Use of Social Media</h2>
+            <p><span class="question-number">5.</span> <strong>Which social media platform do you normally use for academic purposes?</strong></p>
+            <p>WhatsApp and Telegram. We have dedicated groups for each rotation (Surgery, Pediatrics etc.) where we share case summaries and alert each other about ward rounds. The "Ghana Med Students" Telegram channel shares rare case photos (with patient consent).</p>
+            
+            <p><span class="question-number">6.</span> <strong>How often do you use these platforms to communicate with your colleagues?</strong></p>
+            <p>Hourly during rotations. When on call at Korle Bu, we use WhatsApp to quickly consult seniors about patient management.</p>
+    
+            <h2>Section 3: Peer Support</h2>
+            <p><span class="question-number">7.</span> <strong>In what ways do you use social media to communicate with your peers for academic support?</strong></p>
+            <p>We crowdsource differential diagnoses for complex cases, share scanned pages from expensive medical textbooks, and organize study sessions before clinical exams.</p>
+            
+            <p><span class="question-number">8.</span> <strong>Can you describe a specific situation where social media helped you on an assignment?</strong></p>
+            <p>During my rural posting in Dodowa, I encountered a strange rash. I shared de-identified photos on our Dermatology WhatsApp group and received diagnostic suggestions from classmates who had seen similar cases in Volta Region.</p>
+            
+            <p><span class="question-number">9.</span> <strong>How do you think social media has changed your interactions with colleagues compared to traditional methods?</strong></p>
+            <p>It's enabled real-time collaboration across different hospitals. However, we must be extra careful about patient confidentiality - no names or clear identifiers in messages.</p>
+    
+            <h2>Section 4: Academic Skills Development</h2>
+            <p><span class="question-number">10.</span> <strong>How has social media improved your problem-solving skills in academia?</strong></p>
+            <p>Seeing diverse clinical presentations from colleagues across Ghana has broadened my diagnostic thinking beyond textbook cases.</p>
+            
+            <p><span class="question-number">11.</span> <strong>Can you give an example where social media has helped you tackle a specific academic challenge?</strong></p>
+            <p>When preparing for my OSCEs, a senior shared mnemonics for Ghana-specific disease patterns (like remembering "Kumasi" for Kwashiorkor symptoms) via Telegram.</p>
+    
+            <h2>Section 5: Challenges and Limitations</h2>
+            <p><span class="question-number">12.</span> <strong>What challenges have you faced using social media for academic purposes?</strong></p>
+            <p>Maintaining patient privacy is challenging. Also, unreliable electricity means sometimes missing urgent case discussions when my phone dies.</p>
+            
+            <p><span class="question-number">13.</span> <strong>Do you think there are more negative effects of social media in an academic context?</strong></p>
+            <p>Yes - some students over-rely on shared notes instead of original learning. Also, misinformation about treatments circulates quickly.</p>
+    
+            <h2>Section 6: Final Thoughts</h2>
+            <p><span class="question-number">14.</span> <strong>Overall, how would you describe your experiences using social media for academic purposes?</strong></p>
+            <p>Critical for modern medical training in Ghana, but requires strict ethical boundaries. The benefits for collaborative learning outweigh risks when used responsibly.</p>
+            
+            <p><span class="question-number">15.</span> <strong>What recommendation would you give to other students regarding the use of social media for academic support?</strong></p>
+            <p>Always anonymize patient cases. Verify medical information with standard references before applying it. Use pinned messages for key resources to save mobile data.</p>`,
+        timestamp: new Date().toISOString(),
+        rawResponse: 'UG Med student response'
+    },
+
 ];
 
 // Export for use in other files
